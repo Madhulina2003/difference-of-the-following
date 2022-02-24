@@ -1,0 +1,8 @@
+The basic difference between CSS Grid Layout ans CSS flex box is that flexbox was designed for layout in 1D (1 dimension)that is either a row or a column but not both at the same time.
+where as Grid was designed for 2D(2 dimension)  layouts that is row and columns at the same time.
+
+flex box cannot easily overlap items or elements where as grid can create  overlapping layouts very easily.
+
+The basic difference between class and id is that In Html for an element ID name starts with the “#” symbol followed by a unique name assigned to it.	
+On the other hand class assigned to an element has its name starts with “.” followed by class name.
+Only one ID selector can be attached to an element where as multiple class selectors can be attached to an element.
